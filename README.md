@@ -1,11 +1,18 @@
-### Hi there 👋
 
+
+ <div align="center" >
+        <h1 align="center"> <h1>### Hi there, It's me, Jazmin 😄 </h1>
+        <img src="https://www.canva.com/design/DAGA37Db2A8/5we_p69m2lNXY3-yArl1HA/edit?utm_content=DAGA37Db2A8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner" />
+   ## About me
+
+   Full Stack developer
+
+
+ </div>
 <!--
-**durand-jazmin/durand-jazmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
