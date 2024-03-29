@@ -1,7 +1,7 @@
 
 
  <div align="center" background-color: #a6a6a6>
- <img src='Personal LinkedIn Banner/Banner Github.png'/>
+ <img src='2.png'/>
  <h1 align="center">  Hi! It's me, Jazmin 😄 </h1>
   <h2 align="center">About me</h2>
 <p>I'm a Junior developer with Full Stack Formation.</p>
