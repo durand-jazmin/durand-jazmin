@@ -6,7 +6,10 @@
  <h2 align="center">About me</h2>
  <p>I'm a Junior developer with Full Stack Formation.</p>
  <p> 🌱 I’m currently learning and looking for new projects. 👯</p>
- </div> 
+<h2 align="center">Contacto</h2>
+<p>Email: jazmin.durand@gmail.com</p>
+<p>LinkedIn: www.linkedin.com/in/jazmin-durand-chavez</p>
+  </div> 
 
 
  ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
