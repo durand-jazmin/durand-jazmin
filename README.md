@@ -5,7 +5,7 @@
  <h1 align="center">  Hi! It's me, Jazmin 😄 </h1>
  <h2 align="center">About me</h2>
  <p>I'm a Junior developer with Full Stack Formation.</p>
- <p> 🌱 I'm looking for new projects. 👯</p>
+ <p> 🌱 Always looking for new projects. 👯</p>
 <h2 align="center">Contacto</h2>
 <p>Email: jazmin.durand@gmail.com</p>
 <p>LinkedIn: www.linkedin.com/in/jazmin-durand-chavez</p>
